@@ -147,7 +147,7 @@
         <div class="card h-100">
           <img src="img/O3.jpg" class="card-img-top" alt="" width="237" height="237">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h5 class="card-title">¿Como...?</h5>
           </div>
         </div>
       </div>
