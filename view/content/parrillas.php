@@ -1,35 +1,5 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Parrillas</title>
-    <!-- CSS -->
-    <link rel="stylesheet" href="CSS/styles.css">
-    <!-- BOOTSTRAP -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
-</head>
-<body>
-  <!-- cabecera -->
-  <nav class="navbar navbar-expand-lg navbar-dark">
-    <div class="container">
-      <a class="navbar-brand" href="#">Parrillas</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-          <li class="nav-item"><a class="nav-link" href=""></a></li>
-        </ul>
-      </div>
-    </div>
-  </nav>
-<!-- Fin de cabecera -->
-  <div class="container">
-        <!-- Contenido -->
-        
-    <h1 class="display-0">Para Fanáticos de las Parrillas</h1>
+<!-- Contenido -->
+<h1 class="display-0">Para Fanáticos de las Parrillas</h1>
     <p class="lead"> <b>Las parrillas o barbacoas</b> son más que un artefacto de cocina, <b>son reuniones con familia, amigos y sonrisas de tardes soleadas, una buena comida y cervezas</b>. Si eres amante del mundo de las parrillas, esta es tú web.</p>
     <p class="lead">Te mostraremos todos los trucos, modelos y recetas para que <b>Tú Parrilla sea la estrella de ese gran día. </b></p>
               
@@ -151,47 +121,35 @@
     <p>El carbón vegetal tiene muchas variantes <b>según la madera de procedencia, así como su proceso de carbonización</b>, podemos encontrar carbones de quebracho blanco, de fibra de coco, de encina, entre muchos otros.</p>
     <b>El carbón mineral está en desuso debido a sus altos contaminantes y no aconsejamos su utilización.</b>
 
-  <!-- Otros contenidos -->
-  <h1>Guías para que te conviertas en un experto de la barbacoa..</h1>
+    <!-- Otros contenidos -->
+    <h1>Guías para que te conviertas en un experto de la barbacoa..</h1>
                 
-  <div class="row row-cols-1 row-cols-md-3 text-center">
-    <div class="col mb-4">
-      <div class="card h-100">
-        <img src="img/O1.jpg" class="card-img-top" alt="" width="237" height="237">
-        <div class="card-body">
-          <h5 class="card-title"><a href="">¿Qué Parrilla Comprar?</a></h5>
+    <div class="row row-cols-1 row-cols-md-3 text-center">
+      <div class="col mb-4">
+        <div class="card h-100">
+          <img src="img/O1.jpg" class="card-img-top" alt="" width="237" height="237">
+          <div class="card-body">
+            <h5 class="card-title"><a href="">¿Qué Parrilla Comprar?</a></h5>
+          </div>
         </div>
       </div>
-    </div>
 
-    <div class="col mb-4">
-      <div class="card h-100">
-        <img src="img/O2.jpg" class="card-img-top" alt="" width="237" height="237">
-        <div class="card-body">
-          <h5 class="card-title"><a href="">¿Qué Carne es mejor para una parrilla?</a></h5>
+      <div class="col mb-4">
+        <div class="card h-100">
+          <img src="img/O2.jpg" class="card-img-top" alt="" width="237" height="237">
+          <div class="card-body">
+            <h5 class="card-title"><a href="">¿Qué Carne es mejor para una parrilla?</a></h5>
+          </div>
         </div>
       </div>
-    </div>
 
-    <div class="col mb-4">
-      <div class="card h-100">
-        <img src="img/O3.jpg" class="card-img-top" alt="" width="237" height="237">
-        <div class="card-body">
-          <h5 class="card-title">Card title</h5>
+      <div class="col mb-4">
+        <div class="card h-100">
+          <img src="img/O3.jpg" class="card-img-top" alt="" width="237" height="237">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+          </div>
         </div>
       </div>
+
     </div>
-
-  </div>
-
-  </div>
-  <footer class="text-center">
-    Design by Wluna
-  </footer>        
-
-  <!-- JS BOOTSTRAP -->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
-  
-</body>
-</html>
