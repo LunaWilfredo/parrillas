@@ -1,45 +1,4 @@
 
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    list-style: none;
-    
-}
-
 nav{
     background: green;
-}
-
-
-
-
-/* PIE DE PAGINA */
-footer{
-    height: 55px;
-    width: 100%;
-    background: none;
-
-    text-align: center;
-}
-
-footer ul{
-    width: 100%;
-    height: 55px;
-    padding: 10px;
-
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap; 
-
-    align-content: center;
-    align-items: center;
-
-}
-
-footer ul li{
-    width: 50%;
-    height: 50px;
-    line-height: 50px;
-    
 }
