@@ -1,4 +1,8 @@
-
+@import url('http://fonts.cdnfonts.com/css/amerika-sans');
+h1 {
+    font-family: 'Amerika Sans', sans-serif !important;
+  }
+  
 nav{
     background: green;
 }
